@@ -57,7 +57,8 @@ admin.site.register(Student,StudentAdmin)
 ```
 
 ## OUTPUT
-![adminoutput](./Screenshot%202023-10-31%20105652.png)
+![adminoutput](https://github.com/Kishorerz/django_orm_app/assets/144451216/52fa6eb7-2f6e-4340-a642-5e7d839c31bf)
+
 
 
 ## RESULT
