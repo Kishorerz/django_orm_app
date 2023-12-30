@@ -63,4 +63,4 @@ admin.site.register(Student,StudentAdmin)
 
 
 ## RESULT
-    The student table is created successfully and the program successfully Executed.
+The student table is created successfully and the program successfully Executed.
